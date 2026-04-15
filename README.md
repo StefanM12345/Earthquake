@@ -10,6 +10,7 @@ This is a Spring Boot application that fetches recent earthquake data from the U
 * REST APIs
 * GeoJSON parsing
 * HTML + JavaScript (basic frontend)
+* Bootstrap
 
 ---
 
@@ -75,7 +76,7 @@ http://localhost:8080
 
 ## 🌐 Frontend
 
-A simple frontend is included for visualization using HTML and JavaScript.
+A simple frontend is included for visualization using HTML, Bootstrap and JavaScript.
 Accessible at:
 
 ```
