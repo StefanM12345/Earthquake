@@ -103,6 +103,7 @@ http://localhost:8080
 * Filtering earthquakes by timestamp (`/after` endpoint)
 * Basic frontend visualization using Bootstrap
 * Additional error handling for API and database failures
+* Simple map visualization showing earthquake locations
 
 ---
 
